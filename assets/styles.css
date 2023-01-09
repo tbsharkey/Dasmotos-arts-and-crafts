@@ -1,0 +1,45 @@
+* {
+    font-family: Helvetica;
+}
+
+header {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(./images/header-background.png);
+}
+
+#brushes {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+* {
+    font-family: Helvetica;
+}
+
+p {
+    font-size: 16px;
+}
